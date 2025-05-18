@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(red,orange,yellow,green,lightblue,blue,purple);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200vh;
+}
+img{ 
+        opacity: 0.1;
+    }
+img:hover{
+        opacity:1;
+        box-shadow: 3px 3px 3px 4px black;
+        transition: 2s;
+
+    }
+    table:hover{
+        box-shadow: 4px 4px 4px 4px black;
+    }
+.btn{
+        color: black;
+    }
